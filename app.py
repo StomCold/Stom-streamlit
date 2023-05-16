@@ -99,6 +99,7 @@ def main():
 
        a,b,c = st.columns([0.2,0.6,0.2])
 
+ st.image("banner-picture.jpeg", use_column_width=True)
 
 
 # description about the project and code files       
